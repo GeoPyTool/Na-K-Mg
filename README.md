@@ -45,8 +45,13 @@ python triangle_gui.py
 
 ## 文件说明
 - `triangle_gui.py`：主程序及界面逻辑
-- `water_sample.csv`、`complete_water_sample.csv`：示例数据文件
-- `na_k_mg_triangle.png`、`result.svg` 等：示例输出图片
+- `water_sample.csv`：示例数据文件
+- `result.png`、`result.svg` 等：示例输出图片
+- `result.csv`：示例样品分类结果
+
+## 生成图像
+
+![](./images/result.png)
 
 ## 参考文献
 
