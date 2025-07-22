@@ -26,6 +26,8 @@ pip install PySide6 matplotlib pandas numpy
 1. 运行主程序：
 
 ```bash
+git clone https://github.com/GeoPyTool/Na-K-Mg-plotter.git
+cd Na-K-Mg-plotter
 python triangle_gui.py
 ```
 
