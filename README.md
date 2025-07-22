@@ -1,6 +1,26 @@
-# Na-K-Mg Triangle Plotter
+# Na-K-Mg 水化学分析软件
 
-本项目为一个基于 PySide6 和 Matplotlib 的 Na-K-Mg 三角图可视化工具，适用于地热水样品的地球化学分析。
+版本号：1.0
+
+## 软件简介
+本软件是专门用于地下水化学类型判定的专业工具，基于Python开发，采用三角形图示法实现水样中Na-K-Mg离子浓度的可视化分析。软件可自动计算水样参数，生成三角坐标图，并依据行业标准进行水化学类型智能分类。
+
+## 主要功能
+1. CSV数据文件解析与标准化处理
+2. 离子当量浓度自动换算
+3. 三角坐标系动态绘制
+4. 水化学类型智能判定
+5. 分析报告PDF导出
+
+## 技术特点
+- 基于matplotlib实现科学可视化
+- 采用pandas进行数据处理
+- 使用PySide6构建跨平台GUI
+- 支持Windows/Linux/macOS系统
+
+## 运行环境
+- Python 3.11+
+- 依赖库：PySide6, matplotlib, pandas, numpy
 
 ## 功能简介
 - 加载 CSV 或 Excel 格式的水样数据文件
@@ -60,4 +80,4 @@ python triangle_gui.py
 - Arnórsson, S., et al. (1983). The chemistry of geothermal waters in Iceland. III. Chemical geothermometry in geothermal investigations. Geochimica et Cosmochimica Acta, 47(3), 567-577.
 
 ## 许可协议
-本项目仅供学术交流与学习使用。
+本软件遵循GPLv3开源协议，允许学术研究及商业应用，二次开发需保持代码开源。详细条款参见LICENSE文件。
