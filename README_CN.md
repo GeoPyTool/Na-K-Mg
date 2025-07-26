@@ -69,6 +69,21 @@ python triangle_gui.py
 - `result.png`、`result.svg` 等：示例输出图片
 - `result.csv`：示例样品分类结果
 
+## 运行过程
+
+![](./images/0_start.png)
+
+![](./images/1_import.png)
+
+
+![](./images/2_plot.png)
+
+
+![](/images/3_save.png)
+
+
+![](./images/4_export.png)
+
 ## 生成图像
 
 ![](./images/result.png)

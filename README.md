@@ -69,6 +69,20 @@ Data files must contain these columns:
 - `result.png`, `result.svg`: Sample output images
 - `result.csv`: Sample classification results
 
+## Screenshots
+
+![](./images/1_import.png)
+
+
+![](./images/2_plot.png)
+
+
+![](/images/3_save.png)
+
+
+![](./images/4_export.png)
+
+
 ## Sample Output
 
 ![](./images/result.png)
