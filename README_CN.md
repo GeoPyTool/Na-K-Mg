@@ -79,7 +79,7 @@ python triangle_gui.py
 ![](./images/2_plot.png)
 
 
-![](/images/3_save.png)
+![](./images/3_save.png)
 
 
 ![](./images/4_export.png)
